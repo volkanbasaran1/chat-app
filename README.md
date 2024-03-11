@@ -4,32 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Awesome Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 2em;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #555;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 0.2em;
-            font-family: "Courier New", Courier, monospace;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 0.5em;
-        }
-    </style>
 </head>
 <body>
     <h1>My Awesome Project</h1>
